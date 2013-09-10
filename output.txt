@@ -1,6 +1,0 @@
----
-name:
-   first: Jiali
-   last: Huang
-email: jh3602@nyu.edu
-leaderboard: JialiHuang
